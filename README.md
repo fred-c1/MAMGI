@@ -1,7 +1,8 @@
 # MANGI
-Modular Architecture for Motor-Generator Inverter
 
-1	Scope
+MANGI = Modular Architecture for Motor-Generator Inverter
+
+# Scope
 Specify a modular architecture for electric motor-generator inverters.
 The specification defines:
 -	The architecture diagram
