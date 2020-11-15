@@ -50,7 +50,7 @@ The inverter is divided in 4 blocks:
 •	Driver block
 •	Power block
 
- 
+ <img src="images/architecture_top.png">
 
 
 
