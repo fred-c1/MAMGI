@@ -2,6 +2,9 @@
 
 MANGI = Modular Architecture for Motor-Generator Inverter
 
+# Related keywords
+ESC (Electronic Speed Controller), PMSM, BLDC, AC/DC Inverter, Electrical machine
+
 # Scope
 Specify a modular architecture for electric motor-generator inverters.
 
