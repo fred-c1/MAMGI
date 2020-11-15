@@ -1,6 +1,6 @@
-# MANGI
+# MAMGI
 
-MANGI = Modular Architecture for Motor-Generator Inverter
+MAMGI = Modular Architecture for Motor-Generator Inverter
 
 # Related keywords
 ESC (Electronic Speed Controller), PMSM, BLDC, AC/DC Inverter, Electrical machine
