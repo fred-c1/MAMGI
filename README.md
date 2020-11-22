@@ -6,7 +6,7 @@ This README.md file is just an introduction/presentation.
 Most of the work will be done in the [wiki](https://github.com/fred-c1/MAMGI/wiki) pages.
 
 # Related keywords
-ESC (Electronic Speed Controller), PMSM, BLDC, AC/DC Inverter, Electrical machine
+ESC (Electronic Speed Controller), PMSM, AC/DC Inverter, Electrical machine
 
 # Scope
 Specify a modular architecture for electric motor-generator inverters.
