@@ -1,3 +1,7 @@
+# parameters
+currents starts with "I_"
+voltages starts with "V_"
+temperatures starts with "T_"
 
 # differencial voltages/signals
 positive => add "_P"
